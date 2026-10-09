@@ -1,0 +1,15 @@
+{
+	"name": "adfarpit5",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6a56a5f-bdad-4276-bfd3-43d66540a942",
+		"tenantId": "90880054-c639-42b9-975c-c9fb83d07828"
+	}
+}
